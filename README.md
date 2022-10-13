@@ -10,6 +10,7 @@ AD Blocker - Помогает избавиться от рекламы на са
 
 Chrome - Фото расширения Ad Blocker,   
 -------------
+
 ![image](https://user-images.githubusercontent.com/79506370/195491942-673e76ed-b246-46a2-becf-35460e741064.png)
 
 -------------
