@@ -17,5 +17,6 @@ Chrome - Фото расширения Ad Blocker,
 
 Данный скрипт написан на JavaScript                                                                 
 Для браузера в виде расширения
+Работает на ManiFest v3 - Json
 
 Хорошо работает в Chrome/FireFox/Opera
