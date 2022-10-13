@@ -1,0 +1,19 @@
+{
+  "name": "No more ad blocker",
+  "description": "AD Bloker - Helps you get rid of ads on websites",
+  "manifest_version": 3,
+  "author": "zamikosik",
+  "version": "1.0.536.60",
+  "permissions": ["declarativeNetRequest","activeTab"],
+  "host_permissions": ["http://*/","https://*/"],
+  "background": {"service_worker": "adblock.js"},
+  "icons": {"128": "icon.png"},
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Shift+R+Alt",
+        "mac": "MacCtrl+Shift+F"
+      }
+	}
+}
+}
